@@ -1,0 +1,12 @@
+C:\Users\edgar\source\repos\BlazorFurnitureStore\Shared\bin\Debug\net5.0\BlazorFurnitureStore.Shared.deps.json
+C:\Users\edgar\source\repos\BlazorFurnitureStore\Shared\bin\Debug\net5.0\BlazorFurnitureStore.Shared.dll
+C:\Users\edgar\source\repos\BlazorFurnitureStore\Shared\bin\Debug\net5.0\ref\BlazorFurnitureStore.Shared.dll
+C:\Users\edgar\source\repos\BlazorFurnitureStore\Shared\bin\Debug\net5.0\BlazorFurnitureStore.Shared.pdb
+C:\Users\edgar\source\repos\BlazorFurnitureStore\Shared\obj\Debug\net5.0\BlazorFurnitureStore.Shared.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\BlazorFurnitureStore\Shared\obj\Debug\net5.0\BlazorFurnitureStore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar\source\repos\BlazorFurnitureStore\Shared\obj\Debug\net5.0\BlazorFurnitureStore.Shared.AssemblyInfoInputs.cache
+C:\Users\edgar\source\repos\BlazorFurnitureStore\Shared\obj\Debug\net5.0\BlazorFurnitureStore.Shared.AssemblyInfo.cs
+C:\Users\edgar\source\repos\BlazorFurnitureStore\Shared\obj\Debug\net5.0\BlazorFurnitureStore.Shared.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\BlazorFurnitureStore\Shared\obj\Debug\net5.0\BlazorFurnitureStore.Shared.dll
+C:\Users\edgar\source\repos\BlazorFurnitureStore\Shared\obj\Debug\net5.0\ref\BlazorFurnitureStore.Shared.dll
+C:\Users\edgar\source\repos\BlazorFurnitureStore\Shared\obj\Debug\net5.0\BlazorFurnitureStore.Shared.pdb
